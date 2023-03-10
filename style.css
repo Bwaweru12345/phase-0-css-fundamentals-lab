@@ -3,3 +3,48 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+/* .link {
+  padding: 10px;
+  background-color: aqua;
+} */
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+/* .text { 
+  width: 800px;
+  text-align: center;
+} */
+
+section {
+  text-align: center;
+}
+
+#details section {
+  float: left;
+}
+
+div {
+  background-color: red;
+  text-align: center;
+  width:25%;
+}
